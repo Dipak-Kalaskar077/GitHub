@@ -8,8 +8,8 @@ git init
 
 gh repo create REPO_NAME --public --source=. --remote=origin
 
-## Now repository is Created successfully on GitHub account 
-## Copy the Repository URL from GitHub Account and set origin 
+**** Now repository is Created successfully on GitHub account 
+* Copy the Repository URL from GitHub Account and set origin 
 
 git add .
 
